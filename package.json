@@ -1,0 +1,23 @@
+{
+  "name": "movie-scrapper",
+  "version": "1.0.0",
+  "description": "tamil movies scrapper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murali-cse/movie-scrapper.git"
+  },
+  "author": "murali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murali-cse/movie-scrapper/issues"
+  },
+  "homepage": "https://github.com/murali-cse/movie-scrapper#readme",
+  "dependencies": {
+    "cloudflare-scraper": "^1.0.8",
+    "puppeteer": "^10.2.0"
+  }
+}
